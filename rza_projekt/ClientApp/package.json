@@ -1,7 +1,7 @@
 {
   "name": "rza_projekt",
   "version": "0.1.0",
-  "homepage": "https://Irko42.github.io",
+  "homepage": "https://Irko42.github.io/rza_projekt",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.2.0",
